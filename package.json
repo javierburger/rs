@@ -1,0 +1,15 @@
+{
+  "name": "rs",
+  "version": "0.0.0",
+  "description": "rs",
+  "main": "app.js",
+  "author": {
+    "name": "Javier",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
